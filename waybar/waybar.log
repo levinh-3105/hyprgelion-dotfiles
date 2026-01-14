@@ -1,0 +1,9 @@
+[2026-01-14 12:51:50.263] [info] Using configuration file /home/vinh/.config/waybar/config.jsonc
+[2026-01-14 12:51:50.263] [info] Including resource file: ~/.config/waybar/modules.jsonc
+[2026-01-14 12:51:50.267] [info] Discovered appearance 'dark'
+[2026-01-14 12:51:50.322] [info] Using CSS file /home/vinh/.config/waybar/style.css
+[2026-01-14 12:51:50.330] [info] Hyprland IPC starting
+[2026-01-14 12:51:50.330] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-14 12:51:50.331] [warning] 'swap-icon-label' must be a bool.
+[2026-01-14 12:51:50.565] [warning] Requested height: 31 is less than the minimum height: 33 required by the modules
+[2026-01-14 12:51:50.565] [info] Bar configured (width: 1500, height: 33) for output: eDP-1
